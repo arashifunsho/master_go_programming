@@ -1,0 +1,3 @@
+Go is an open source project developed by a team at Google and has since gone open-source
+Go is distributed under a BSD-style license
+GO is an open source project and we welcome contributions from the community
